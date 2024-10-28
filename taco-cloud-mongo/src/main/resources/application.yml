@@ -1,0 +1,12 @@
+#logging.level.org.springframework.jdbc.core.JdbcTemplate=debug
+
+spring:
+    data:
+        mongodb:
+            database: tacoclouddb
+            uri: mongodb+srv://david:123451@cluster0.68no3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#            port: 27017
+            #username: david
+            #password: 123451
+
+#mongodb+srv://david:123451@cluster0.68no3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
